@@ -2,8 +2,8 @@
 def say_hello(name)
   if name == ""
     name == "Ruby Programmer"
-  puts "Hello #{name}!"
   end
+  puts "Hello #{name}!"
 end
 
 say_hello("")
