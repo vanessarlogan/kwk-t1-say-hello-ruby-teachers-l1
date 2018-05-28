@@ -6,4 +6,4 @@ def say_hello(name)
   end
 end
 
-say_hello("Vanessa")
+say_hello("")
